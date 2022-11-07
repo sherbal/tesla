@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+}
+.container{
+position: relative;
+font-family: 'Oswald', sans-serif;
+font-family: 'Signika Negative', sans-serif
+}
+.navbar{
+
+}
+.icon img{
+  width:100px;
+  height:100px;
+  position: fixed;
+  top: -13px;
+}
+.details ol{
+      list-style: none;
+      display: inline-flex;
+      position: fixed;
+      right: 365px;
+      top:30px;
+      font-size: 20px;
+}
+.details li:hover{
+  transition:ease-out 0.7s;
+  background-color: #607EAA;
+}
+.details li{
+  margin-left: 40px;
+
+
+}
+.details2 ul{
+  position: fixed;
+  display: inline-flex;
+  right:90px;
+  list-style: none;
+  top: 30px;
+  font-size: 20px;
+}
+.details2 li{
+margin-right: 28px;
+}
+.details2 li:hover{
+  transition:ease-out 0.7s;
+  background-color:#2A547E;
+}
+.body img{
+  width:1263px;
+  height: 173;
+}
+.second-body  img{
+  width:1263px;
+  height: 173;
+}
+.home h1{
+  position: fixed;
+    left: 46%;
+    top: 97px;
+    font-size: 50px;
+}
+.home p{
+  position: fixed;
+    left: 43%;
+    top: 170px;
+
+
+}
+.home table{
+  position: fixed;
+    left: 30%;
+    top: 420px;
+    font-size: 20px;
+}
+.home td{
+
+  margin-right: 50px;
+    width: 250px;
+    height: 42px;
+}
+#btn1{
+  width:260px;
+  height:44px;
+  margin-right:46px;
+  background-color:rgba(23, 26, 32, 0.8);
+  color:white;
+  border-radius:10px
+}
+#btn2{
+  width:260px;
+  height:44px;
+  background-color:white;
+  color:black;
+  border-radius:10px
+}
+.third-body  img{
+  width:1263px;
+  height: 173;
+}
+.terms ul{
+  list-style: none;
+  display: inline-flex;
+  position: absolute;
+  margin-left: 214px;
+}
